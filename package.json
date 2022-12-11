@@ -16,7 +16,7 @@
     "url": "https://github.com/kislaykk/bunk-it/issues"
   },
   "homepage": "https://github.com/kislaykk/bunk-it#readme",
-  "dependencies": {
+  "devDependencies": {
     "@types/node": "^18.11.13",
     "tslint": "^6.1.3",
     "typescript": "^4.9.4"
