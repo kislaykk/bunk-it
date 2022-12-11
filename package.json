@@ -1,0 +1,19 @@
+{
+  "name": "bunk-it",
+  "version": "1.0.0",
+  "description": "let's see how far can i go with this project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kislaykk/bunk-it.git"
+  },
+  "author": "Kislay Kanti Dhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kislaykk/bunk-it/issues"
+  },
+  "homepage": "https://github.com/kislaykk/bunk-it#readme"
+}
